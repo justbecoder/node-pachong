@@ -1,0 +1,21 @@
+{
+  "name": "node-pachong",
+  "version": "1.0.0",
+  "description": "使用Node.js做爬虫实战",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "爬虫",
+    "superagent",
+    "cheerio"
+  ],
+  "author": "justbecoder <justbecoder@aliyun.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "superagent": "^5.1.0"
+  }
+}
