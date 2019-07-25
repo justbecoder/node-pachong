@@ -4,6 +4,7 @@
   "description": "使用Node.js做爬虫实战",
   "main": "index.js",
   "scripts": {
+    "dev": "node ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
